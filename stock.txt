@@ -1,0 +1,38 @@
+1<>Tea<>15<>66<>20/3/2018<>hot_drink
+2<>Green Tea<>17<>66<>20/3/2018<>hot_drink
+3<>Black Coffee<>20<>66<>20/3/2018<>hot_drink
+4<>Espresso<>20<>25<>20/3/2018<>hot_drink
+5<>Double Espresso<>29<>66<>20/3/2018<>hot_drink
+6<>Latte<>30<>66<>20/3/2018<>hot_drink
+7<>Vanilla Latte<>35<>66<>20/3/2018<>hot_drink
+8<>Caramel Latte<>35<>66<>20/3/2018<>hot_drink
+9<>Cappuccino<>25<>66<>20/3/2018<>hot_drink
+10<>Mocha<>27<>66<>20/3/2018<>hot_drink
+11<>Macchiatto<>28<>66<>20/3/2018<>hot_drink
+12<>Hot Chocolate<>26<>66<>20/3/2018<>hot_drink
+13<>Nescafe<>24<>66<>20/3/2018<>hot_drink
+14<>Pepsi<>20<>66<>20/3/2018<>cold_drink
+15<>Coke<>20<>66<>20/3/2018<>cold_drink
+16<>Diet Coke<>20<>66<>20/3/2018<>cold_drink
+17<>Sprite<>20<>66<>20/3/2018<>cold_drink
+18<>Water<>12<>66<>20/3/2018<>cold_drink
+19<>Red Bull<>32<>66<>20/3/2018<>cold_drink
+20<>Iced Coffee<>35<>66<>20/3/2018<>cold_drink
+21<>Orange Juice<>33<>66<>20/3/2018<>cold_drink
+22<>Strawberry Juice<>33<>66<>20/3/2018<>cold_drink
+23<>Mango Juice<>33<>66<>20/3/2018<>cold_drink
+24<>Pineapple Juice<>33<>66<>20/3/2018<>cold_drink
+25<>Peach Juice<>33<>66<>20/3/2018<>cold_drink
+26<>Fruit Cocktail<>35<>66<>20/3/2018<>cold_drink
+27<>Strawberry Smoothie<>38<>66<>20/3/2018<>smoothie
+28<>Mango Smoothie<>38<>66<>20/3/2018<>smoothie
+29<>Blueberry Smoothie<>40<>66<>20/3/2018<>smoothie
+30<>Kiwi Smoothie<>40<>66<>20/3/2018<>smoothie
+31<>Watermelon Smoothie<>35<>66<>20/3/2018<>smoothie
+32<>Pineapple Smoothie<>35<>66<>20/3/2018<>smoothie
+33<>Chocolate Brownie<>44<>66<>20/3/2018<>dessert
+34<>Strawberry Cheesecake<>46<>66<>20/3/2018<>dessert
+35<>Chocolate Mousse Cake<>46<>66<>20/3/2018<>dessert
+36<>Red Velvet Cake<>48<>66<>20/3/2018<>dessert
+37<>Molten Cake<>44<>66<>20/3/2018<>dessert
+38<>blueberry Buckle<>46<>66<>20/3/2018<>dessert
